@@ -23,7 +23,7 @@ Sistema de agentes de IA para geração de conteúdo narrativo usando Ollama e L
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/SEU_USUARIO/book-agents-mvp.git
+   git clone https://github.com/guilherme-byrro/book-agents-mvp.git
    cd book-agents-mvp
    ```
 
